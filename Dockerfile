@@ -1,0 +1,1 @@
+FROM kydotvo/planwise:latest
